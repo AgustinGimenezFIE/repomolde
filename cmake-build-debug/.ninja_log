@@ -1,0 +1,6 @@
+# ninja log v5
+6	77	7001606243922699	CMakeFiles/repomolde.dir/helper.c.obj	568b9f41abaa54a1
+0	98	7001606244123390	CMakeFiles/repomolde.dir/main.c.obj	164505a447226ffb
+98	206	7001606245190859	repomolde.exe	b4fbfc33238d7c79
+2	95	7001609088146573	CMakeFiles/repomolde.dir/main.c.obj	164505a447226ffb
+95	214	7001609089315220	repomolde.exe	b4fbfc33238d7c79
